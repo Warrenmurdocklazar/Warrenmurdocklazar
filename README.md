@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
-
-
+- 💬 I'm eager to learn as much as possible!
+- 
 - 📫 How to reach me: Linkedin <a href="www.linkedin.com/in/warren-murdock-lazar-3890b4162">Linkedin</a>
 
 <!--
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: Linkedin <a href="www.linkedin.com/in/warren-murdock-lazar-3890b4162">Linkedin</a>
+- 📫 How to reach me:<a href="www.linkedin.com/in/warren-murdock-lazar-3890b4162">Linkedin</a>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
