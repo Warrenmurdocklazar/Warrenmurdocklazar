@@ -2,7 +2,7 @@
 
 - 💬 I'm eager to learn as much as possible!
 - 
-- 📫 How to reach me:<a href="www.linkedin.com/in/warren-murdock-lazar-3890b4162">Linkedin</a>
+- 📫 How to reach me:<a href= "www.linkedin.com/in/warren-murdock-lazar-3890b4162">Linkedin</a>
 
 <!--
 **Warrenmurdocklazar/Warrenmurdocklazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
