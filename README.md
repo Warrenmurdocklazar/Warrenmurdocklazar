@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-- 💬 I'm eager to learn as much as possible!
+I'm Warren, a Software Engineer based in London, UK.
+What have I been up to lately?
 
-- 📫 <a href= "www.linkedin.com/in/warren-murdock-lazar-3890b4162">Linkedin</a>
+    🏫 Last built Online Bookstore Database using Python & SQL()
+    💻 Graduated HyperionDev Software Engineering Bootcamp. Ranking in the top 1% of the cohort
 
-<!--
-**Warrenmurdocklazar/Warrenmurdocklazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:<a href="www.linkedin.com/in/warren-murdock-lazar-3890b4162"></a>
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ⌨️ I use daily: Python, HTML, CSS, SQL, OOP
+    🏗️ I have built using the frameworks Django, Bootstrap
+    ☁️ Currently furthing my knowledge in Python
+    💬 Interested in learning Java and C+
+    📫 Reach me: https://www.linkedin.com/in/warren-murdock-lazar-3890b4162/
+    ⚡️ Fun fact: My undergraduate degree is in Audio Production
