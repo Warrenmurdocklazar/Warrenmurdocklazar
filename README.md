@@ -8,7 +8,7 @@ What have I been up to lately?
 
 Bio
 
-    ⌨️ I use daily: Python, HTML, CSS, SQL, OOP
+    ⌨️ I use daily: Python, HTML, SQL, OOP
     🏗️ I have built using the frameworks Django, Bootstrap
     ☁️ Currently furthing my knowledge in Python
     💬 Interested in learning Java and C+
